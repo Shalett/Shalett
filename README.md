@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hello, I'm Shalett Paulson!
 
-<!--
-**Shalett/Shalett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Machine Learning Enthusiast | 💻 Computer Architecture Enthusiast
 
-Here are some ideas to get you started:
+Passionate about exploring the realms of AI and designing efficient computing systems. I've delved into the world of machine learning, from algorithms to applications, and I've even built projects around recommender systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do:
+- 🤖 Dive deep into Machine Learning
+- 🧠 In-Memory Computing with DRAM
+
+## 🔭 Currently Working On:
+- Exploring the potential of in-memory computing using DRAM
+- Enhancing my understanding of memory hierarchy and performance optimization
+  
+## 🌱 Learning:
+- Continuously sharpening my machine learning skills
+- Exploring advanced computer architecture concepts
+
+## 💬 Let's Connect:
+- [LinkedIn] linkedin.com/in/shalett-p-139182213
+- Reach me at shalettpaul01@gmail.com
+ 
+
+
