@@ -13,7 +13,7 @@ Passionate about exploring the realms of AI and designing efficient computing sy
 - Exploring advanced computer architecture concepts
 
 ## 💬 Let's Connect:
-- linkedin.com/in/shalett-p-139182213
+- linkedin.com/in/shalett-paulson-139182213
 - Reach me at shalettpaul01@gmail.com
  
 
