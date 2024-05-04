@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shalett Paulson!
 
-🌟 Machine Learning, Data Science, Cybersecurity Enthusiast
+🌟 Machine Learning | Data Science | Cybersecurity Enthusiast
 
 Passionate about exploring the realms of AI and designing efficient computing systems. I've delved into the world of machine learning, from algorithms to applications, and I've even built projects around Recommender Systems, Computer Vision and Computer Architecture.
   
